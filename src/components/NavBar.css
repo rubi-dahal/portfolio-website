@@ -67,6 +67,7 @@ button:hover{
         color: rgb(255, 255, 255);
         font-size: 2rem;
     }
+    
     .navbar{
         height: 70px; 
         justify-content: space-between; 
