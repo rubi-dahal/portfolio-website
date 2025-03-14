@@ -22,8 +22,6 @@ const NavBar = () => {
         </div>
         <div className="light-dark-mode">
           <IoSunny className="icon" />
-        </div>
-        <div className="menu">
           <RxHamburgerMenu className="mobile" />
         </div>
       </nav>
