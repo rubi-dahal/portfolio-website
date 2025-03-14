@@ -1,7 +1,6 @@
 .logo{
     width: 100px;
     height: auto;
-    margin-top: 8px;
     
 }
 .navbar{
@@ -73,7 +72,8 @@ button:hover{
         justify-content: space-between; 
     }
     .logo{
-        width: 70px;
+        width: 65px;
+        margin-top: 0px;
         height: auto;
         margin-left: 40px;
     }
