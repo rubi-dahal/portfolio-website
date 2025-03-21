@@ -7,9 +7,9 @@ const Sidebar = ({ active }) => {
   return (
     <div className={`sidebar ${active && "active"}`}>
       <div className="menus">
-        <a href="/project">Home</a>
-        <a href="/contact">About</a>
-        <a href="/blog">Services</a>
+        <a href="/">Home</a>
+        <a href="/">About</a>
+        <a href="/">Services</a>
         <button style={{ margin: "0px" }}>
           Resume <FaArrowRight />
         </button>
