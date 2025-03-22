@@ -9,7 +9,7 @@ import p5 from "../assets/p5.png";
 import p6 from "../assets/p6.png";
 const Projects = () => {
   return (
-    <div className="projects">
+    <div id="projects">
       <h1>Projects</h1>
       <p>Check out some of my personal and paid projects</p>
       <div className="box">
