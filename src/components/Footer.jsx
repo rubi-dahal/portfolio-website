@@ -5,7 +5,7 @@ import { AiFillYoutube } from "react-icons/ai";
 
 const Footer = () => {
   return (
-    <div className="footer">
+    <div id="footer">
       <p>communitypro47@gmail.com</p>
       <div className="social-icons">
         <FaFacebook className="icon" />
