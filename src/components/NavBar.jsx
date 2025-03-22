@@ -19,9 +19,9 @@ const NavBar = () => {
           <img className="logo" src={logo} alt="logo" />
         </div>
         <div className="nav-links">
-          <a href="/">Home</a>
-          <a href="/">About</a>
-          <a href="/">Services</a>
+        <a href="#hero">Home</a>
+          <a href="#projects">Projects</a>
+          <a href="#footer">Contact</a>
           <button>
             Resume <FaArrowRight />
           </button>
