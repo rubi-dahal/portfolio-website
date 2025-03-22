@@ -1,4 +1,4 @@
-.projects{
+#projects{
    text-align: center;
    margin: auto;
    width: 70%;
@@ -36,7 +36,7 @@ img{
       object-fit: cover;
 }
 @media (max-width: 768px){
-   .projects{
+   #projects{
        width: 85%;
    }
 }
